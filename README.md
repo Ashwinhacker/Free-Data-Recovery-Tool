@@ -37,7 +37,7 @@ pip (Python package manager)
 #Installation (All OS)
 
 #Clone the Repository
-git clone https://github.com/yourusername/data-recovery-tool.git
+git clone https://github.com/Ashwinhacker/Free-Data-Recovery-Tool.git
 cd data-recovery-tool
 
 #Create Virtual Environment (Recommended)
